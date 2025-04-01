@@ -37,5 +37,26 @@ This project demonstrates the implementation of GAN (Generative Adversarial Netw
 
 🤖 tensorflow==2.12.0
 
-██████ 100% tqdm==4.65.0
+100% ██████ tqdm==4.65.0
 
+## 🏗️ Model Architecture
+
+### 🔧 Generator
+- **Input**: 100-dimensional noise vector
+- **Output**: 28x28x1 image
+- **Layers**:
+  - Dense (6272 neurons)
+  - LeakyReLU activation function
+  - Reshape (7x7x128)
+  - BatchNormalization
+  - Conv2DTranspose layers
+
+### 🔍 Discriminator
+- **Input**: 28x28x1 image
+- **Output**: 1 (real/fake classification)
+- **Layers**:
+  - Conv2D layers
+  - LeakyReLU activation function
+  - Dropout (0.3)
+  - Dense
+ 
