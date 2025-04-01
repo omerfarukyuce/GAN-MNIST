@@ -14,3 +14,22 @@ This project demonstrates the implementation of GAN (Generative Adversarial Netw
 - Generate realistic handwritten digit images
 - Demonstrate GAN model principles through practical implementation
 - Visualize the training process of deep learning models
+## ✨ Features
+
+- 🔄 MNIST dataset integration
+- 🏗️ Implementation of Generator and Discriminator models
+- 📊 Visualization tools
+- 📈 Real-time training process monitoring
+- 🖼️ Generated image visualization
+- 🎨 Customizable model parameters
+
+## 🛠️ Requirements
+
+```python
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.7.1
+seaborn==0.12.2
+tensorflow==2.12.0
+tqdm==4.65.0
+```
