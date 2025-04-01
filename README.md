@@ -60,3 +60,23 @@ This project demonstrates the implementation of GAN (Generative Adversarial Netw
   - Dropout (0.3)
   - Dense
  
+## ⚙️ Training Parameters
+
+| Parameter | Value |
+|-----------|--------|
+| Number of Epochs | 10000 |
+| Batch Size | 64 |
+| Learning Rate | 0.0002 |
+| Optimizer | Adam (beta1=0.5) |
+| Latent Dimension | 100 |
+
+## 📊 Results
+
+After model training:
+- Generated sample images
+- Training loss values
+- Discriminator and Generator performance graphs
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
