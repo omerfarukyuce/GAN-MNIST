@@ -80,3 +80,8 @@ After model training:
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔍 Code And Kaggle Link
+Project: [gan-mnist.ipynb](https://github.com/omerfarukyuce/GAN-MNIST/blob/main/gan-mnist.ipynb)
+
+Kaggle: [🤖🔢GAN MNIST](https://www.kaggle.com/code/merfarukyce/gan-mnist)
