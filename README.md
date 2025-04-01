@@ -26,10 +26,16 @@ This project demonstrates the implementation of GAN (Generative Adversarial Netw
 ## 🛠️ Requirements
 
 🐍 python
+
 🐼 pandas==1.5.3
+
 📊 numpy==1.23.5
+
 📈 matplotlib==3.7.1
+
 🌈 seaborn==0.12.2
+
 🤖 tensorflow==2.12.0
+
 ██████ 100% tqdm==4.65.0
 
