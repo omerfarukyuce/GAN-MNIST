@@ -1,7 +1,5 @@
 # 🤖🔢 MNIST GAN Project
 
-<div align="center">
-
 ![GAN](https://img.shields.io/badge/GAN-Generative%20Adversarial%20Network-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
